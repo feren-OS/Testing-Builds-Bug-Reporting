@@ -2,7 +2,7 @@
 name: 22.04 Bug Report
 about: Report a bug you found in Feren OS on 22.04 Development Builds
 title: ''
-labels: 22.04 Beta 2
+labels: 22.04 Pre-Alpha
 assignees: ''
 
 ---
