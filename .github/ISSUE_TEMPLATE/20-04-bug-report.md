@@ -1,8 +1,8 @@
 ---
-name: 20.04 Bug Report
-about: Report a bug you found in Feren OS on 20.04 Development Builds
+name: 22.04 Bug Report
+about: Report a bug you found in Feren OS on 22.04 Development Builds
 title: ''
-labels: 20.04 Beta 2
+labels: 22.04 Beta 2
 assignees: ''
 
 ---
