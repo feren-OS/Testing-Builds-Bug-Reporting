@@ -1,8 +1,8 @@
 ---
-name: 22.04 Bug Report
-about: Report a bug you found in Feren OS on 22.04 Development Builds
+name: 2023.07 Alpha 2
+about: Report a bug you found in Feren OS 2023.07 Alpha 2
 title: ''
-labels: 22.04 Alpha
+labels: 22.04 Alpha 2
 assignees: ''
 
 ---
