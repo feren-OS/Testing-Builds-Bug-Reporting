@@ -2,7 +2,7 @@
 name: 2025.03 Beta 1
 about: Report a bug you found in Feren OS 2025.03 Beta 1
 title: ''
-labels: 22.04 Beta 1
+labels: 22.04 Beta
 assignees: ''
 
 ---
