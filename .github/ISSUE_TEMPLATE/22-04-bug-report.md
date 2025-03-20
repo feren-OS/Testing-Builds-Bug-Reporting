@@ -1,8 +1,8 @@
 ---
-name: 2025.03 Beta 1
-about: Report a bug you found in Feren OS 2025.03 Beta 1
+name: 2025.03 Beta 2
+about: Report a bug you found in Feren OS 2025.03 Beta 2
 title: ''
-labels: 22.04 Beta
+labels: 22.04 Beta 2
 assignees: ''
 
 ---
