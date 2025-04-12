@@ -1,8 +1,8 @@
 ---
-name: 2025.03 Release Candidate
-about: Report a bug you found in Feren OS 2025.03 Release Candidate
+name: 10th Anniversary Alpha
+about: Report a bug you found in Feren OS 10th Anniversary Alpha
 title: ''
-labels: 22.04 RC
+labels: 24.04 Alpha
 assignees: ''
 
 ---
